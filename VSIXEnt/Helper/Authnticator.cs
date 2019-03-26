@@ -8,6 +8,7 @@ namespace VSIXEnt.Helper
 {
     class Authnticator
     {
+        string userStatus;
         public static bool isUserLogedIn()
         {
             return true;

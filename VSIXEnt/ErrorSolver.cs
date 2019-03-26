@@ -176,8 +176,8 @@ namespace VSIXEnt
                     exceptionString = buildOrder[index + 1];
                     // process new output in newText
                     exceptionString = exceptionString + " in " + envName;
-                    MessageBox.Show(exceptionString);
-                    Home errorDisplay = new Home();
+                    //MessageBox.Show(exceptionString);
+                    Home errorDisplay = new Home(exceptionString);
                     errorDisplay.ShowDialog();
                 }
 

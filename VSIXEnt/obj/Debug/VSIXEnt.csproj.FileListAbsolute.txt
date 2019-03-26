@@ -88,3 +88,11 @@ C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\obj\Debug\VSIXEnt.latest.pkgde
 C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\obj\Debug\extension.vsixmanifest
 C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\obj\Debug\VSIXEnt.csprojAssemblyReference.cache
 C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\obj\Debug\VSIXEnt.UI.Login.resources
+C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\bin\Debug\Google.Apis.Core.dll
+C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\bin\Debug\Google.Apis.dll
+C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\bin\Debug\Google.Apis.pdb
+C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\bin\Debug\Google.Apis.xml
+C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\bin\Debug\Google.Apis.Core.xml
+C:\Users\Dawar Stack\source\repos\VSIXEnt\VSIXEnt\obj\Debug\VSIXEnt.UI.Home.resources
